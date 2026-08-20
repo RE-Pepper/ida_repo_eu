@@ -4,3 +4,5 @@
 *.nam
 *.til
 *.bak
+*.i64
+!rp_eu.i64
